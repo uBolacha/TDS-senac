@@ -1,0 +1,45 @@
+Lobby ||--o{ Player: lobby
+    Lobby {
+        string servidor
+        int num_players
+    }
+    
+    Player||--o{ stats: stats
+    Player{
+       string nome
+        string nickname
+        int nivel 
+        string iniciante
+        int credibilidade
+    }
+     Player||--o{ skin: cosmeticos
+    skin{
+        string nome
+        string raridade 
+        string sazonal
+    }
+    Player ||--o{ ELO : rank
+    ELO{
+        string season
+        string nome
+        int nivel_rank
+    }
+    Lobby||--o{ Mapa: partida
+    Mapa{
+       
+        string nome
+        string rotation_comp
+    }
+    Mapa||--o{ Partidas: partidas
+    Partidas{
+        string modo
+        int num_rounds
+        int num_players
+        string Comp
+    }
+    stats{
+    
+        int K_D
+        int kills
+        int deaths
+    }
