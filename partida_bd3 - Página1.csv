@@ -1,0 +1,16 @@
+ID_partidas,modo,num_rounds,num_players,ID_lobby
+1,TDM,1,10,1
+2,Casual,5,10,2
+3,TDM,1,10,3
+4,TDM,1,10,4
+5,competitivo,7,10,5
+6,T HUNT,1,10,6
+7,casual,3,10,7
+8,casual,4,10,8
+9,competitivo,10,10,9
+10,competitivo,4,10,10
+11,T HUNT,1,10,11
+12,T HUNT,1,10,12
+13,TDM,1,10,13
+14,competitivo,5,10,14
+15,TDM,1,10,15

@@ -1,0 +1,16 @@
+ID_mapa,nome,rotatio_comp,ID_partidas
+1,Estadio,TRUE,1
+2,Arranha ceu,TRUE,2
+3,Planicie esmeralda,TRUE,3
+4,Torre,FALSE,4
+5,Litoral,TRUE,5
+6,Banco,TRUE,6
+7,Residencia,FALSE,7
+8,Cafe Dostoyevski,TRUE,8
+9,Villa,TRUE,9
+10,Chale,TRUE,10
+11,Outback,TRUE,11
+12,Canal,TRUE,12
+13,Aviao,FALSE,13
+14,Oregon,TRUE,14
+15,Fortaleza,FALSE,15

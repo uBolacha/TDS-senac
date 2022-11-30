@@ -1,0 +1,16 @@
+ID_player,nome,nickname,nivel,iniciante,credibilidade
+1,vito,saladaehruim,75,falso,50000
+2,gabriel,darkness,10,verdadeiro,1000
+3,roger,pimpow,10,verdadeiro,1000
+4,felipe,spartan,1,verdadeiro,1000
+5,abner,kinderovo,1,verdadeiro,1000
+6,pedro,deltafireone,100,falso,50000
+7,thairon,eldrann,35,falso,10000
+8,rafael,rossetow,35,falso,10000
+9,henrique,rickzn,10,verdadeiro,1000
+10,victor,uBolacha,240,falso,100000
+11,lucas,castoroide,75,falso,50000
+12,biel,galadriel,75,falso,25000
+13,hyggor,kitsune,10,verdadeiro,1000
+14,douglas,oni,1,verdadeiro,1000
+15,marcos,fonkerz,240,falso,90000
